@@ -39,7 +39,7 @@ Aşağıda, **Kali Linux** ve **Termux** için adım adım kurulum talimatları 
 3. **Depoyu Klonlayın**:
    ```bash
    git clone https://github.com/siberdunyaniz/arivadcrep.git
-   cd Ariva-Discord-Complaint-Tool
+   cd arivadcrep
    ```
 
 4. **Bağımlılıkları Yükleyin**:
@@ -69,7 +69,7 @@ Aşağıda, **Kali Linux** ve **Termux** için adım adım kurulum talimatları 
 3. **Depoyu Klonlayın**:
    ```bash
    git clone https://github.com/siberdunyaniz/arivadcrep.git
-   cd discord.py
+   cd arivadcrep
    ```
 
 4. **Bağımlılıkları Yükleyin**:
@@ -80,7 +80,7 @@ Aşağıda, **Kali Linux** ve **Termux** için adım adım kurulum talimatları 
 
 5. **Aracı Çalıştırın**:
    ```bash
-   python ariva_discord_complaint_tool_pro.py
+   python discord.py
    ```
 
 **Not:** Termux'ta `webbrowser` modülü, Telegram bağlantısını açmak için `am start` komutunu kullanır. Termux'un `termux-api` paketinin yüklü olduğundan emin olun:
@@ -94,7 +94,7 @@ Aşağıda, **Kali Linux** ve **Termux** için adım adım kurulum talimatları 
 
 1. **Aracı Başlatın**:
    ```bash
-   python3 ariva_discord_complaint_tool_pro.py
+   python3 discord.py
    ```
 
 2. **Dil Seçimi**:
